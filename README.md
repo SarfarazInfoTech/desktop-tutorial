@@ -12,6 +12,7 @@
     <h1>Java Script Project</h1>
     <!-- Exp 1 -->
     <script type="text/javascript">
+        <br>
         var a = 10;
         var b = 10;
         var c;
