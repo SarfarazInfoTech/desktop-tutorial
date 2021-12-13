@@ -10,7 +10,7 @@
 
 <body>
     <!-- Exp 1 -->
-    <!-- <script type="text/javascript">
+    <script type="text/javascript">
         var a = 10;
         var b = 10;
         var c;
@@ -24,10 +24,10 @@
         c = a * b;
         document.write("<br> Multiplication = " + c);
          
-    </script>-->
+    </script>
 
     <!-- Exp 2 -->
-    <!-- <script type="text/javascript">
+    <script type="text/javascript">
         var x = 3;
         var y = 2;
         var z = 5;
@@ -39,10 +39,10 @@
             document.write("Largest is = " + z);
 
         }
-    </script> -->
+    </script>
 
     <!-- Exp 2 -->
-    <!-- <script type="text/javascript">
+    <script type="text/javascript">
         function factonial(num) {
             if (num <= 1) { return 1; }
 
@@ -52,10 +52,10 @@
         }
         var z = factonial(6);
         document.write(z);
-    </script> -->
+    </script>
 
     <!-- Exp 3 -->
-    <!-- <script type="text/javascript">
+    <script type="text/javascript">
         var S = new Array();
         S[0] = "PHP";
         S[1] = "ASP";
@@ -64,10 +64,10 @@
         for (var i = 0; i < S.length; i++) {
             document.write(S[i] + "<br>");
         }
-    </script> -->
+    </script>
 
     <!-- Exp 4 -->
-    <!-- <p id="Demo"></p>
+    <p id="Demo"></p>
     <script type="text/javascript">
         var x = myFunction(4, 3);
         document.getElementById('Demo').innerHTML = x;
@@ -77,11 +77,11 @@
             return (a + b);
         }
 
-    </script> -->
+    </script>
 
 
     <!-- Exp 6 -->
-    <!-- <h1>Registration Page</h1>
+    <h1>Registration Page</h1>
     <form action="post" name="registration">
         First Name : <input type="text" name="firstname" id="" /> <br><br>
         Last Name : <input type="text" name="lastname" id="" /> <br><br>
@@ -115,27 +115,27 @@
         <input type="reset" value="Reset">
         <input type="submit" value="Submit">
 
-    </form> -->
+    </form>
 
     <!-- Exp 7 -->
-    <!-- <script>
+    <script>
         function react() {
             alert("Please enter any value");
         }
     </script>
     <form action="post" name="myform" method="POST" click="react">
         <input type="button" value="Click now here" onclick="react()">
-    </form> -->
+    </form>
 
     <!-- Exp 8 -->
-    <!-- <script>
+    <script>
         function react() {
             alert("Wellcome to event");
         }
     </script>
     <form action="" name="myform" method="POST" onmousemove="react()">
     <input type="button" value="Click on mouse button">
-    </form> -->
+    </form>
 
     <!-- Ex 9 Error in img tag -->
     <!-- <form action="" name="myform" method="POST">
@@ -180,7 +180,7 @@
 
 
     <!-- Exp 12 -->
-    <!-- <script>
+    <script>
         function check() {
             var reg = /abc/gmi;
             var str = document.getElementById("text").value;
@@ -190,13 +190,13 @@
     </script>
     Enter text <textarea name="" id="text" cols="30" rows="10"></textarea>
     <input value="Check" type="button" onclick="check()" />
-    <p id="demo1"></p> -->
+    <p id="demo1"></p>
 
     <!-- Exp 13 error -->
     <!-- <img src="1.jpg" height="150" width="100" alt="no image" onmouseover="" src="2.jpg"> -->
 
     <!-- Exp 14  -->
-    <!-- <div style="position: fixed;
+    <div style="position: fixed;
                 width: 200px;
                 height: 50px;
                 top: 70px;
@@ -209,12 +209,12 @@
     this is a long webpage
     <br>
     this is a long webpage
-    <br> -->
+    <br>
 
     <!-- Exp 15 -->
-    <!-- <h3>Right Click on screen Content menu is enable </h3>
+    <h3>Right Click on screen Content menu is enable </h3>
     <br>
-    <h3>you can view sources of web page </h3> -->
+    <h3>you can view sources of web page </h3>
 
     <!-- Exp 16 error -->
     <!-- <script>
