@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    <h1>Java Script Project</h1>
     <!-- Exp 1 -->
     <script type="text/javascript">
         var a = 10;
